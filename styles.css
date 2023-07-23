@@ -1,0 +1,51 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 0;
+    background-image: url(/images/purple-sunset-form-lonely-beach_sbi1ckov_thumbnail-180_01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    max-width: 800px;
+    margin: 0;
+    padding: 20px;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    padding: 40px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+.method{
+    margin-bottom: 20px;
+}
+
+h3{
+    margin: 0;
+
+}
+
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+img{
+    border-radius: 150px;
+}
